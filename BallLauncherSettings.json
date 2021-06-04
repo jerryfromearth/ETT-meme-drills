@@ -1,732 +1,924 @@
 {
-  "settingsVersion":"1",
-  "showBallMachineLauncherAlways":"True",
-  "ballCount":"5",
-  "timeScale":"1",
-  "shuffle":"True",
-  "drills":{
-    "__currentPreset__":"default",
-    "__canUpdate__":"True",
-    "default":{
-      "__currentPreset__":"Snake Lob R",
-      "__canUpdate__":"True",
-      "4008.6 Meme drills":{
-        "Description":"Author: SolidSlime\nhttps://github.com/jerryfromearth/ETT-meme-drills\nBE CAREFUL OF OBJECTS AROUND YOU!",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+  "settingsVersion": "1",
+  "showBallMachineLauncherAlways": "True",
+  "ballCount": "5",
+  "timeScale": "1",
+  "shuffle": "True",
+  "drills": {
+    "__currentPreset__": "default",
+    "__canUpdate__": "True",
+    "default": {
+      "__currentPreset__": "Snake Lob Low L",
+      "__canUpdate__": "True",
+      "4008.8 Meme drills": {
+        "Description": "Author: SolidSlime\nhttps://github.com/jerryfromearth/ETT-meme-drills\nBE CAREFUL OF OBJECTS AROUND YOU!",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
           },
-          "spread":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"8",
-            "leftRight":"0",
-            "screw":"0"
+        "spin": {
+          "raw": {
+            "topBottom": "8",
+            "leftRight": "0",
+            "screw": "0"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"5,40000009536743",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "5,40000009536743",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Snake Lob R":{
-        "Description":"Beware of the snake bite! Recommend to be enabled together with 'Snake Lob L', and enable 'Shuffle' in '...' options",
-        "isActive":"True",
-        "position":{
-          "raw":{
-            "x":"-0,0222755670547485",
-            "y":"-0,75",
-            "z":"-0,058742880821228"
+      "Snake Lob High R": {
+        "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
+        "isActive": "True",
+        "position": {
+          "raw": {
+            "x": "-0,0222755670547485",
+            "y": "-0,75",
+            "z": "-0,058742880821228"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"50,5213775634766",
-            "verticalAngle":"76,2204437255859"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "23,0522613525391",
+            "verticalAngle": "64,2570495605469"
           },
-          "spread":{
-            "horizontalAngle":"10",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "10",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"-6,46826934814453",
-            "leftRight":"31,7738189697266",
-            "screw":"-28,4724426269531"
+        "spin": {
+          "raw": {
+            "topBottom": "-32,9784545898438",
+            "leftRight": "34,9711608886719",
+            "screw": "-28,5074234008789"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "14,2257814407349",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"16,4681034088135",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,76111125946045",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Snake Lob L":{
-        "Description":"Beware of the snake bite! Recommend to be enabled together with 'Snake Lob L', and enable 'Shuffle' in '...' options",
-        "isActive":"True",
-        "position":{
-          "raw":{
-            "x":"0,0222755670547485",
-            "y":"-0,75",
-            "z":"-0,058742880821228"
+      "Snake Lob High L": {
+        "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
+        "isActive": "True",
+        "position": {
+          "raw": {
+            "x": "0,0222755670547485",
+            "y": "-0,75",
+            "z": "-0,058742880821228"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"-50,5213775634766",
-            "verticalAngle":"76,2204437255859"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-23,0522613525391",
+            "verticalAngle": "64,2570495605469"
           },
-          "spread":{
-            "horizontalAngle":"10",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "10",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"-6,46826934814453",
-            "leftRight":"-31,7738189697266",
-            "screw":"28,4724426269531"
+        "spin": {
+          "raw": {
+            "topBottom": "-32,9784545898438",
+            "leftRight": "-34,9711608886719",
+            "screw": "28,5074234008789"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "14,2257814407349",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"16,4681034088135",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,76111125946045",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Around the net R (opponent)":{
-        "Description":"Can you return this around-the-net shot by the opponent?",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"-1,5",
-            "y":"-0,42779928445816",
-            "z":"0,41572904586792"
+      "Snake Lob Mid R": {
+        "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
+        "isActive": "True",
+        "position": {
+          "raw": {
+            "x": "-0,0222755670547485",
+            "y": "-0,75",
+            "z": "0,167414903640747"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"-9,11241912841797",
-            "verticalAngle":"7,75177001953125"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "15,4435272216797",
+            "verticalAngle": "51,2925415039063"
           },
-          "spread":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "11,8997850418091",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"3,40672302246094",
-            "leftRight":"36,1870880126953",
-            "screw":"-15,9429473876953"
+        "spin": {
+          "raw": {
+            "topBottom": "-33,6311264038086",
+            "leftRight": "58,6738433837891",
+            "screw": "-15,3917694091797"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "9,89367389678955",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"14,3741369247437",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,78547191619873",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Around the net R (you)":{
-        "Description":"Can you take the chance to hit around the net?",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"-1,37096273899078",
-            "y":"-0,218931317329407",
-            "z":"-0,436610102653503"
+      "Snake Lob Mid L": {
+        "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
+        "isActive": "True",
+        "position": {
+          "raw": {
+            "x": "0,0222755670547485",
+            "y": "-0,75",
+            "z": "0,167414903640747"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"-38,6019058227539",
-            "verticalAngle":"14,6129379272461"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-15,4435272216797",
+            "verticalAngle": "51,2925415039063"
           },
-          "spread":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "11,8997850418091",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"18,1067199707031",
-            "leftRight":"18,6991729736328",
-            "screw":"4,62937927246094"
+        "spin": {
+          "raw": {
+            "topBottom": "-33,6311264038086",
+            "leftRight": "-58,6738433837891",
+            "screw": "15,3917694091797"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "9,89367389678955",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"8,24701404571533",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,78547191619873",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Around the net L (opponent)":{
-        "Description":"Can you return this around-the-net shot by the opponent?",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"1,5",
-            "y":"-0,42779928445816",
-            "z":"0,41572904586792"
+      "Snake Lob Low R": {
+        "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
+        "isActive": "True",
+        "position": {
+          "raw": {
+            "x": "-0,0424344539642334",
+            "y": "-0,75",
+            "z": "0,494737148284912"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"9,11241912841797",
-            "verticalAngle":"7,75177001953125"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "13,4547271728516",
+            "verticalAngle": "37,8017044067383"
           },
-          "spread":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "10",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"3,40672302246094",
-            "leftRight":"-36,1870880126953",
-            "screw":"15,9429473876953"
+        "spin": {
+          "raw": {
+            "topBottom": "-42,4021415710449",
+            "leftRight": "73,2959442138672",
+            "screw": "-19,3103790283203"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"14,3741369247437",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,24402904510498",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Around the net L (you)":{
-        "Description":"Can you take the chance to hit around the net?",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"1,37096273899078",
-            "y":"-0,218931317329407",
-            "z":"-0,705039978027344"
+      "Snake Lob Low L": {
+        "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
+        "isActive": "True",
+        "position": {
+          "raw": {
+            "x": "0,0424344539642334",
+            "y": "-0,75",
+            "z": "0,494737148284912"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"43,0649108886719",
-            "verticalAngle":"14,6129379272461"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-13,4547271728516",
+            "verticalAngle": "37,8017044067383"
           },
-          "spread":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "10",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"18,1067199707031",
-            "leftRight":"-18,6991729736328",
-            "screw":"-4,62937927246094"
+        "spin": {
+          "raw": {
+            "topBottom": "-42,4021415710449",
+            "leftRight": "-73,2959442138672",
+            "screw": "19,3103790283203"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"8,24701404571533",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,24402904510498",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Net":{
-        "Description":"Sorry!",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"-0,797703742980957",
-            "y":"0",
-            "z":"1,00095164775848"
+      "Around the net R (opponent)": {
+        "Description": "Can you return this around-the-net shot by the opponent?",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-1,5",
+            "y": "-0,42779928445816",
+            "z": "0,41572904586792"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"-14,6766738891602",
-            "verticalAngle":"9,86819458007813"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-9,11241912841797",
+            "verticalAngle": "7,75177001953125"
           },
-          "spread":{
-            "horizontalAngle":"2,39571404457092",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"21,1406631469727",
-            "leftRight":"-4,65312194824219",
-            "screw":"4,62937927246094"
+        "spin": {
+          "raw": {
+            "topBottom": "3,40672302246094",
+            "leftRight": "36,1870880126953",
+            "screw": "-15,9429473876953"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"9,82809638977051",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "14,3741369247437",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Edge far":{
-        "Description":"/sorry",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"-0,797703742980957",
-            "y":"0",
-            "z":"1,00095164775848"
+      "Around the net R (you)": {
+        "Description": "Can you take the chance to hit around the net?",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-1,37096273899078",
+            "y": "-0,218931317329407",
+            "z": "-0,436610102653503"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"-13,9132080078125",
-            "verticalAngle":"19,8820571899414"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-38,6019058227539",
+            "verticalAngle": "14,6129379272461"
           },
-          "spread":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"26,1857757568359",
-            "leftRight":"-1,87990570068359",
-            "screw":"4,62937927246094"
+        "spin": {
+          "raw": {
+            "topBottom": "18,1067199707031",
+            "leftRight": "18,6991729736328",
+            "screw": "4,62937927246094"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"10,9835510253906",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,24701404571533",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Edge R":{
-        "Description":"/sorry",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"-0,797703742980957",
-            "y":"0",
-            "z":"0,190339326858521"
+      "Around the net L (opponent)": {
+        "Description": "Can you return this around-the-net shot by the opponent?",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "1,5",
+            "y": "-0,42779928445816",
+            "z": "0,41572904586792"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"-26,0810699462891",
-            "verticalAngle":"11,6896591186523"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "9,11241912841797",
+            "verticalAngle": "7,75177001953125"
           },
-          "spread":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"16,052734375",
-            "leftRight":"3,33909606933594",
-            "screw":"0,205184936523438"
+        "spin": {
+          "raw": {
+            "topBottom": "3,40672302246094",
+            "leftRight": "-36,1870880126953",
+            "screw": "15,9429473876953"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"9,82809638977051",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "14,3741369247437",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Edge L":{
-        "Description":"/sorry",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"0,797703742980957",
-            "y":"0",
-            "z":"0,190339326858521"
+      "Around the net L (you)": {
+        "Description": "Can you take the chance to hit around the net?",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "1,37096273899078",
+            "y": "-0,218931317329407",
+            "z": "-0,705039978027344"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"26,0810699462891",
-            "verticalAngle":"11,6896591186523"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "43,0649108886719",
+            "verticalAngle": "14,6129379272461"
           },
-          "spread":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"16,052734375",
-            "leftRight":"-3,33909606933594",
-            "screw":"0,205184936523438"
+        "spin": {
+          "raw": {
+            "topBottom": "18,1067199707031",
+            "leftRight": "-18,6991729736328",
+            "screw": "-4,62937927246094"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"9,82809638977051",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,24701404571533",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Ultra heavy ghost serve":{
-        "Description":"What to do when the ball hops back over the net?",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"-0,797703742980957",
-            "y":"-0,14657074213028",
-            "z":"-0,230901598930359"
+      "Net": {
+        "Description": "Sorry!",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,797703742980957",
+            "y": "0",
+            "z": "1,00095164775848"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"-29,6344871520996",
-            "verticalAngle":"46,1764068603516"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-14,6766738891602",
+            "verticalAngle": "9,86819458007813"
           },
-          "spread":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "2,39571404457092",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"-48,7889175415039",
-            "leftRight":"-0,395195007324219",
-            "screw":"4,62937927246094"
+        "spin": {
+          "raw": {
+            "topBottom": "21,1406631469727",
+            "leftRight": "-4,65312194824219",
+            "screw": "4,62937927246094"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"3,44803047180176",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,82809638977051",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Brush the rolling ball":{
-        "Description":"This is actually a good loop brush exercise. Brush the ball when it rolls out of the table and make it land beyond the net. Strongly recommended to be used in a build with paddle-table collision enabled",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"0",
-            "y":"-0,42145162820816",
-            "z":"-2"
+      "Edge far": {
+        "Description": "/sorry",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,797703742980957",
+            "y": "0",
+            "z": "1,00095164775848"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-13,9132080078125",
+            "verticalAngle": "19,8820571899414"
           },
-          "spread":{
-            "horizontalAngle":"34,4822082519531",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+        "spin": {
+          "raw": {
+            "topBottom": "26,1857757568359",
+            "leftRight": "-1,87990570068359",
+            "screw": "4,62937927246094"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"1,98091590404511",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,9835510253906",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Super long serve R":{
-        "Description":"Just for fun",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"-1,2742463350296",
-            "y":"-0,206725716590881",
-            "z":"0,450065851211548"
+      "Edge R": {
+        "Description": "/sorry",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,797703742980957",
+            "y": "0",
+            "z": "0,190339326858521"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"-28,357105255127",
-            "verticalAngle":"-8,3271484375"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-26,0810699462891",
+            "verticalAngle": "11,6896591186523"
           },
-          "spread":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"53,9980316162109",
-            "leftRight":"0,597511291503906",
-            "screw":"4,62937927246094"
+        "spin": {
+          "raw": {
+            "topBottom": "16,052734375",
+            "leftRight": "3,33909606933594",
+            "screw": "0,205184936523438"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"17,6580028533936",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,82809638977051",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       },
-      "Super long serve L":{
-        "Description":"Just for fun",
-        "isActive":"False",
-        "position":{
-          "raw":{
-            "x":"1,2742463350296",
-            "y":"-0,206725716590881",
-            "z":"0,450065851211548"
+      "Edge L": {
+        "Description": "/sorry",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,797703742980957",
+            "y": "0",
+            "z": "0,190339326858521"
           },
-          "spread":{
-            "x":"0",
-            "y":"0",
-            "z":"0"
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
           }
         },
-        "direction":{
-          "raw":{
-            "horizontalAngle":"28,357105255127",
-            "verticalAngle":"-8,3271484375"
+        "direction": {
+          "raw": {
+            "horizontalAngle": "26,0810699462891",
+            "verticalAngle": "11,6896591186523"
           },
-          "spread":{
-            "horizontalAngle":"0",
-            "verticalAngle":"0"
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
           }
         },
-        "spin":{
-          "raw":{
-            "topBottom":"53,9980316162109",
-            "leftRight":"-0,597511291503906",
-            "screw":"4,62937927246094"
+        "spin": {
+          "raw": {
+            "topBottom": "16,052734375",
+            "leftRight": "-3,33909606933594",
+            "screw": "0,205184936523438"
           },
-          "spread":{
-            "topBottom":"0",
-            "leftRight":"0",
-            "screw":"0"
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
           }
         },
-        "speedAndRate":{
-          "raw":{
-            "speed":"17,6580028533936",
-            "secondsPerLaunch":"2"
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,82809638977051",
+            "secondsPerLaunch": "2"
           },
-          "spread":{
-            "speed":"0",
-            "secondsPerLaunch":"0"
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "Ultra heavy ghost serve": {
+        "Description": "What to do when the ball hops back over the net?",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,797703742980957",
+            "y": "-0,14657074213028",
+            "z": "-0,230901598930359"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-29,6344871520996",
+            "verticalAngle": "46,1764068603516"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-48,7889175415039",
+            "leftRight": "-0,395195007324219",
+            "screw": "4,62937927246094"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "3,44803047180176",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "Brush the rolling ball": {
+        "Description": "This is actually a good loop brush exercise. Brush the ball when it rolls out of the table and make it land beyond the net. Strongly recommended to be used in a build with paddle-table collision enabled",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0",
+            "y": "-0,42145162820816",
+            "z": "-2"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          },
+          "spread": {
+            "horizontalAngle": "34,4822082519531",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "1,98091590404511",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "Super long serve R": {
+        "Description": "Just for fun",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-1,2742463350296",
+            "y": "-0,206725716590881",
+            "z": "0,450065851211548"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-28,357105255127",
+            "verticalAngle": "-8,3271484375"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "53,9980316162109",
+            "leftRight": "0,597511291503906",
+            "screw": "4,62937927246094"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "17,6580028533936",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "Super long serve L": {
+        "Description": "Just for fun",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "1,2742463350296",
+            "y": "-0,206725716590881",
+            "z": "0,450065851211548"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "28,357105255127",
+            "verticalAngle": "-8,3271484375"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "53,9980316162109",
+            "leftRight": "-0,597511291503906",
+            "screw": "4,62937927246094"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "17,6580028533936",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
           }
         }
       }
