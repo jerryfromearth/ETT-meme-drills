@@ -1,7 +1,11 @@
 # ETT-meme-drills
 
-* Snake Lob R
-* Snake Lob L
+* Snake Lob High R
+* Snake Lob High L
+* Snake Lob Mid R
+* Snake Lob Mid L
+* Snake Lob Low R
+* Snake Lob Low L
 * Around the net R (opponent)
 * Around the net R (you)
 * Around the net L (opponent)
