@@ -3,13 +3,5533 @@
   "showBallMachineLauncherAlways": "True",
   "ballCount": "5",
   "timeScale": "1",
-  "shuffle": "True",
+  "shuffle": "False",
   "drills": {
     "__currentPreset__": "default",
     "__canUpdate__": "True",
     "default": {
-      "__currentPreset__": "Snake Lob Low L",
+      "__currentPreset__": "Default",
       "__canUpdate__": "True",
+      "Default": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "36,6434555053711"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "8",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "5,40000009536743",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "1.1 SOLIDSLIME SERVES": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,785141348838806",
+            "y": "-0,235412538051605",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-5,36622619628906",
+            "verticalAngle": "-8,70736694335938"
+          },
+          "spread": {
+            "horizontalAngle": "3,45098328590393",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "36,7326965332031",
+            "leftRight": "-0,486480712890625",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "10,6965770721436",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "12,328857421875",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "2.1 TopSpin Left->Left": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,785141348838806",
+            "y": "-0,235412538051605",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-5,36622619628906",
+            "verticalAngle": "-8,70736694335938"
+          },
+          "spread": {
+            "horizontalAngle": "3,45098328590393",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "36,7326965332031",
+            "leftRight": "-0,486480712890625",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "10,6965770721436",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "12,328857421875",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "2.2 TopSpin Left->Mid": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,785141348838806",
+            "y": "-0,235412538051605",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-13,7369232177734",
+            "verticalAngle": "-10,0695037841797"
+          },
+          "spread": {
+            "horizontalAngle": "6,14928913116455",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "41,3447265625",
+            "leftRight": "-0,486480712890625",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "10,6965770721436",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "12,328857421875",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "2.3 TopSpin Left->Right": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,918908476829529",
+            "y": "-0,235412538051605",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-25,2165374755859",
+            "verticalAngle": "-7,22394561767578"
+          },
+          "spread": {
+            "horizontalAngle": "3,61040592193604",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "44,0165252685547",
+            "leftRight": "-0,486480712890625",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "10,6965770721436",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "12,328857421875",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "2.4 TopSpin Right->Left": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,835504531860352",
+            "y": "-0,239904522895813",
+            "z": "0,297054052352905"
+          },
+          "spread": {
+            "x": "0,0207061599940062",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "22,6057205200195",
+            "verticalAngle": "-4,49745941162109"
+          },
+          "spread": {
+            "horizontalAngle": "3,60008692741394",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "46,7843322753906",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,76290059089661",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "12,241099357605",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "2.5 TopSpin Right->Mid": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,634257078170776",
+            "y": "-0,239904522895813",
+            "z": "0,297054052352905"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "11,755973815918",
+            "verticalAngle": "-8,49649810791016"
+          },
+          "spread": {
+            "horizontalAngle": "5,97862386703491",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "47,5245971679688",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,76290059089661",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "12,241099357605",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "2.6 TopSpin Right->Right": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,574999332427979",
+            "y": "-0,272651642560959",
+            "z": "0,297054052352905"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-0,065948486328125",
+            "verticalAngle": "-9,29727935791016"
+          },
+          "spread": {
+            "horizontalAngle": "2,52832531929016",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "40,6335906982422",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,76290059089661",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "13,5747089385986",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "2.7 TopSpin Left->Random": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,785141348838806",
+            "y": "-0,235412538051605",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-13,1938171386719",
+            "verticalAngle": "-8,09964752197266"
+          },
+          "spread": {
+            "horizontalAngle": "11,2237539291382",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "44,3429412841797",
+            "leftRight": "-0,486480712890625",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "10,6965770721436",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "12,328857421875",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "2.8 TopSpin Right->Random": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,443920612335205",
+            "y": "-0,272261202335358",
+            "z": "0,301263570785522"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,9014892578125",
+            "verticalAngle": "-7,03326416015625"
+          },
+          "spread": {
+            "horizontalAngle": "11,088846206665",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "52,6727905273438",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,76290059089661",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "12,4665622711182",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "3.1 Backspin(s) Left->Left": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,480367302894592",
+            "y": "-0,272261202335358",
+            "z": "-0,131476163864136"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0,544502258300781",
+            "verticalAngle": "19,4029083251953"
+          },
+          "spread": {
+            "horizontalAngle": "4,28257465362549",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-27,9858322143555",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,52913928031921",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "3,65070033073425",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "3.2 Backspin(s) Left->Mid": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,480367302894592",
+            "y": "-0,272261202335358",
+            "z": "-0,131476163864136"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-13,1903381347656",
+            "verticalAngle": "19,4029083251953"
+          },
+          "spread": {
+            "horizontalAngle": "4,28257465362549",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-29,5829391479492",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0,35548797249794",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "3,65070033073425",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "3.3 Backspin(s) Left->Right": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,480367302894592",
+            "y": "-0,272261202335358",
+            "z": "-0,131476163864136"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-22,80029296875",
+            "verticalAngle": "16,1807708740234"
+          },
+          "spread": {
+            "horizontalAngle": "4,28257465362549",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-28,4362106323242",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0,35548797249794",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,10245418548584",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "3.4 Backspin(s) Right->Left": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,466068029403687",
+            "y": "-0,272261202335358",
+            "z": "-0,131476163864136"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "25,4651412963867",
+            "verticalAngle": "24,5245742797852"
+          },
+          "spread": {
+            "horizontalAngle": "4,28257465362549",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-28,1665191650391",
+            "leftRight": "1,70069122314453",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0,35548797249794",
+            "leftRight": "6,92036819458008",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "3,65070033073425",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "3.5 Backspin(s) Right->Mid": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,524355888366699",
+            "y": "-0,272261202335358",
+            "z": "-0,131476163864136"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "14,9626312255859",
+            "verticalAngle": "18,4875183105469"
+          },
+          "spread": {
+            "horizontalAngle": "7,90145015716553",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-27,3106155395508",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0,35548797249794",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "3,71683502197266",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179848864674568",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "3.6 Backspin(s) Right->Right": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,561541080474854",
+            "y": "-0,272261202335358",
+            "z": "-0,131476163864136"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "1,94922637939453",
+            "verticalAngle": "19,4029083251953"
+          },
+          "spread": {
+            "horizontalAngle": "4,28257465362549",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-33,3530349731445",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0,35548797249794",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "3,65070033073425",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "3.7 Backspin(s) Left->Random": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,480367302894592",
+            "y": "-0,272261202335358",
+            "z": "-0,131476163864136"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-13,1903381347656",
+            "verticalAngle": "24,9553451538086"
+          },
+          "spread": {
+            "horizontalAngle": "12,9364795684814",
+            "verticalAngle": "5,37380409240723"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-29,3341293334961",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "4,01353931427002",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "3,65070033073425",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "3.8 Backspin(s) Right->Random": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,512885332107544",
+            "y": "-0,272261202335358",
+            "z": "-0,131476163864136"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "16,2453918457031",
+            "verticalAngle": "28,494255065918"
+          },
+          "spread": {
+            "horizontalAngle": "12,8579177856445",
+            "verticalAngle": "5,48067474365234"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-26,4950714111328",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,28915023803711",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "3,5418586730957",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "4.1 Backspin(L) Left->Left": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,511103391647339",
+            "y": "-0,187387406826019",
+            "z": "0,323742389678955"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "1,13041687011719",
+            "verticalAngle": "-8,73859405517578"
+          },
+          "spread": {
+            "horizontalAngle": "3,44700860977173",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-22,7061462402344",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,52913928031921",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,43319940567017",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "4.2 Backspin(L) Left->Mid": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,511103391647339",
+            "y": "-0,187387406826019",
+            "z": "0,323742389678955"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-8,58029937744141",
+            "verticalAngle": "-8,73859405517578"
+          },
+          "spread": {
+            "horizontalAngle": "7,39581537246704",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-22,7061462402344",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,52913928031921",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,24507522583008",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "4.3 Backspin(L) Left->Right": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,511103391647339",
+            "y": "-0,187387406826019",
+            "z": "0,323742389678955"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-17,7831649780273",
+            "verticalAngle": "-8,73859405517578"
+          },
+          "spread": {
+            "horizontalAngle": "4,28257465362549",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-22,7061462402344",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,52913928031921",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,43319940567017",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "4.4 Backspin(L) Right->Left": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,638226509094238",
+            "y": "-0,187387406826019",
+            "z": "0,323742389678955"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "20,7579498291016",
+            "verticalAngle": "-8,73859405517578"
+          },
+          "spread": {
+            "horizontalAngle": "4,28257465362549",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-22,7061462402344",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,52913928031921",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,43319940567017",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "4.5 Backspin(L) Right->Mid": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,532181739807129",
+            "y": "-0,187387406826019",
+            "z": "0,323742389678955"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,95555114746094",
+            "verticalAngle": "-8,73859405517578"
+          },
+          "spread": {
+            "horizontalAngle": "7,99225282669067",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-22,7061462402344",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,52913928031921",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,43319940567017",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "4.6 Backspin(L) Right->Right": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,560835361480713",
+            "y": "-0,187387406826019",
+            "z": "0,323742389678955"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0,544502258300781",
+            "verticalAngle": "-8,73859405517578"
+          },
+          "spread": {
+            "horizontalAngle": "4,28257465362549",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-22,7061462402344",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,52913928031921",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,43319940567017",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "4.7 Backspin(L) Left->Random": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,483856916427612",
+            "y": "-0,187387406826019",
+            "z": "0,323742389678955"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-7,30196380615234",
+            "verticalAngle": "-8,73859405517578"
+          },
+          "spread": {
+            "horizontalAngle": "13,4934234619141",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-22,7061462402344",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "4,85598087310791",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,43319940567017",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "4.8 Backspin(L) Right->Random": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,514956474304199",
+            "y": "-0,187387406826019",
+            "z": "0,323742389678955"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "10,5010681152344",
+            "verticalAngle": "-8,73859405517578"
+          },
+          "spread": {
+            "horizontalAngle": "12,9490842819214",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-22,7061462402344",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "5,14175224304199",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,43319940567017",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,179208859801292",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "5.1 LeftSpin Left->Left": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,785141348838806",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-10,5559310913086",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "3,35547399520874",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "3,47000885009766",
+            "leftRight": "-39,0204620361328",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "5.2 LeftSpin Left->Mid": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,785141348838806",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-21,5546035766602",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "6,84424257278442",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "4,50502014160156",
+            "leftRight": "-39,0204620361328",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "5.3 LeftSpin Left->Right": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,785141348838806",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-31,4518013000488",
+            "verticalAngle": "-2,80479431152344"
+          },
+          "spread": {
+            "horizontalAngle": "3,35547399520874",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "1,85863494873047",
+            "leftRight": "-39,0204620361328",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "3,99285793304443",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "5.4 LeftSpin Right->Left": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,614563465118408",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "13,6751480102539",
+            "verticalAngle": "-5,05625915527344"
+          },
+          "spread": {
+            "horizontalAngle": "3,35547399520874",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "5,0684814453125",
+            "leftRight": "-39,0204620361328",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "5.5 LeftSpin Right->Mid": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,575570344924927",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "4,99897003173828",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "8,63322639465332",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "12,1013565063477",
+            "leftRight": "-39,0204620361328",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "5.6 LeftSpin Right->Right": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,516086101531982",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-9,41509246826172",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "3,35547399520874",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "4,91258239746094",
+            "leftRight": "-39,0204620361328",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "5.7 LeftSpin Left->Random": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,785141348838806",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-22,490592956543",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "12,3472986221313",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "12,1013565063477",
+            "leftRight": "-39,0204620361328",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "5.8 LeftSpin Right->Random": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,821868181228638",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "9,08311462402344",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "10,0316514968872",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "12,1013565063477",
+            "leftRight": "-39,0204620361328",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "6.1 RightSpin Left->Left": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,687143683433533",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "1,84500122070313",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "3,35547399520874",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "12,1013565063477",
+            "leftRight": "39,8559112548828",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "6.2 RightSpin Left->Mid": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,752738654613495",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-4,4700927734375",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "6,666184425354",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "12,1013565063477",
+            "leftRight": "34,4874572753906",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "6.3 RightSpin Left->Right": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,797341465950012",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-15,9290924072266",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "2,99867534637451",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "12,1013565063477",
+            "leftRight": "41,2288360595703",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "6.4 RightSpin Right->Left": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,520590305328369",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "28,9318161010742",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "3,35547399520874",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "12,1013565063477",
+            "leftRight": "41,2288360595703",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "6.5 RightSpin Right->Mid": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,542444229125977",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,8019332885742",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "6,21975612640381",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "12,1013565063477",
+            "leftRight": "41,2288360595703",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "6.6 RightSpin Right->Right": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,49345862865448",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "6,81184387207031",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "3,35547399520874",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "12,1013565063477",
+            "leftRight": "41,2288360595703",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "6.7 RightSpin Left->Random": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,553840100765228",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-2,20938873291016",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "13,2848405838013",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "12,1013565063477",
+            "leftRight": "41,2288360595703",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "6.8 RightSpin Right->Random": {
+        "Description": "",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,521907091140747",
+            "y": "-0,1845423579216",
+            "z": "0,333702564239502"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "18,8533935546875",
+            "verticalAngle": "-10,977180480957"
+          },
+          "spread": {
+            "horizontalAngle": "11,985692024231",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "12,1013565063477",
+            "leftRight": "41,2288360595703",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,40372848510742",
+            "leftRight": "2,97935009002686",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,09873390197754",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0,368135899305344",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "7.1 BEGINNER DRILLS AlexTTBCN": {
+        "Description": "Beginner Drills by Alex TT Barcelona\nA good place to start if you have no club level experience",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,427691340446472",
+            "y": "-0,28999999165535",
+            "z": "-0,217724084854126"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-17,9200000762939",
+            "verticalAngle": "19,0400009155273"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1299991607666",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,73999977111816",
+            "secondsPerLaunch": "1,75"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "8.1 BH Counter Drive Beginner": {
+        "Description": "Beginner Drill 1\nWhat to do: Play a forehand counter drive\nFeet slightly more than shoulder width apart. Knees bent to improve your mobility and balance. Move the foot on your forehand side slightly back so the line connecting your feet is at 55 degrees with the line of the incoming ball. In this case an angle of about 12 degrees from the table. Shift your weight from your back leg to your front leg, let your knees, hips, shoulders just follow that same motion, twisting slightly, making your arm swing besides your body. Your wrist and elbow relaxed, so they can move along with the rest of your body. Hit the ball at its highest point, your paddle moving forwards and slightly upwards. \nAt first your paddle can be close to vertical when making contact, but try to close down your angle over the ball as you get used to how your stroke lifts the ball by slightly brushing. This will become a secure safe stroke, so don?t try to play too hard. Adding spin and speed will be easier when you dominate this stroke. Keep you bat slightly above table level in between strokes.\n\nFeet wide\t\tKnees bent\t\tForehand side?s foot slightly back\t\tShift weight forward\t\tTwist torso slightly\t\tSwing a relaxed arm and wrist\t\tSlightly upwards motion\t\tClosed bat angle\t\tHit at highest point\t\tKeep paddle above table level between strokes",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,427691340446472",
+            "y": "-0,28999999165535",
+            "z": "-0,217724084854126"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9200000762939",
+            "verticalAngle": "19,0400009155273"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1299991607666",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,73999977111816",
+            "secondsPerLaunch": "1,75"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "9.1 FH Counter Drive Beginner": {
+        "Description": "Beginner Drill 2\nWhat to do: Play a backhand counter drive\nThe backhand is easier control as it is played in front of your chest instead of besides your body. This time the line of your feet is at a 90 degree angle to the incoming ball so you are directly behind the ball. This should result in your feet being at almost the same angle compared to the table edge as when playing your forehand. Shift your weight slightly towards your forehand side and move your arm almost as if you are throwing a frisbee at a high arc, while pushing the ball forwards at the same time. Hit the ball at its highest point, your paddle moving slightly upwards. At first your paddle can be close to vertical when making contact, but try to close down your angle over the ball as you get used to how your stroke lifts the ball by slightly brushing.\n\nFeet wide\t\tKnees bent\t\tDirectly behind the ball\t\tShift weight towards the forehand side\t\tTwist torso slightly\t\tSwing a relaxed arm and wrist\t\tAdd a bit of Frisbee motion to add topsin\t\tSlightly upwards motion\t\tClosed bat angle\t\tHit at highest point\t\tKeep paddle above table level between strokes",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,427691340446472",
+            "y": "-0,28999999165535",
+            "z": "-0,217724084854126"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-17,9200000762939",
+            "verticalAngle": "19,0400009155273"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1299991607666",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,73999977111816",
+            "secondsPerLaunch": "1,75"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "10.1 BH Push": {
+        "Description": "Beginner Drill 3\nWhat to do: Play a short forehand push\nStep into the table with the foot from your forehand side to close the distance. Put it deep enough so you stay balanced while you bring your body close enough so you don?t have to stretch your arm too much. Instead of swinging, this time simply push the ball forward with your paddle angle slightly open so you touch the ball just on the bottom part. Touch the ball while it is still going up to get a bit of help lifting the ball over the net without moving your paddle upwards. Just open or close the angle of your bat to control the height of the ball. Feel free to play this stroke with the tip of your paddle down and towards the net for more control and less strain on your wrist. No need to play this stroke besides your body. After each of these shots recover to your forehand position.\n\nStep into the ball with forehand side?s foot\t\tStay low\t\tOpen bat angle\t\tForward motion\t\tCompact stroke (don?t reach)\t\tBefore highest point",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,620000004768372",
+            "y": "-0,165999993681908",
+            "z": "-0,0719999969005585"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "22,7299995422363",
+            "verticalAngle": "-5,74219989776611"
+          },
+          "spread": {
+            "horizontalAngle": "4",
+            "verticalAngle": "1,27999997138977"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-36",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,50999999046326",
+            "leftRight": "2,52999997138977",
+            "screw": "0,866999983787537"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,70300006866455",
+            "secondsPerLaunch": "1,79999995231628"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "11.1 FH Push": {
+        "Description": "Beginner Drill 4\nWhat to do: Play a short backhand push\nThis time don?t worry about the slight frisbee motion. Move into the table with the same foot as for the forehand push. Try to use the momentum of your body to push the ball back with a slightly open paddle when the ball is still going up right after the bounce. Move your paddle forward, not up. Control the height of the ball by opening or closing the paddle angle slightly.\n\nStep into the ball with dominant side\t\tStay low\t\tOpen bat angle\t\tForward motion\t\tCompact stroke (don?t reach)\t\tBefore highest point",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,620000004768372",
+            "y": "-0,165999993681908",
+            "z": "-0,0719999969005585"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-22,7299995422363",
+            "verticalAngle": "-5,74219989776611"
+          },
+          "spread": {
+            "horizontalAngle": "4",
+            "verticalAngle": "1,27999997138977"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-36",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,50999999046326",
+            "leftRight": "2,52999997138977",
+            "screw": "0,866999983787537"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,70300006866455",
+            "secondsPerLaunch": "1,79999995231628"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "12.1 BASIC DRILLS AlexTTBCN": {
+        "Description": "Basic Drills by Alex TT Barcelona\nYou will recognize these if you have club level experience",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,427691340446472",
+            "y": "-0,28999999165535",
+            "z": "-0,217724084854126"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-17,9200000762939",
+            "verticalAngle": "19,0400009155273"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1299991607666",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "7,73999977111816",
+            "secondsPerLaunch": "1,75"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "13.1 FH Counter Drive": {
+        "Description": "Basic Drill 1\nWhat to do: Play a forehand counter drive\nRemember to bend your knees and use your body by shifting your weight from your backfoot forwards and slightly twisting your torso. Arm and wrist relaxed. Feel free to start adding more topspin by adding a bit of extra swing and brush with your underarm, accelerating slightly when you touch the ball, without losing your balance and your ability to recover in time for the next ball.\n\nSwing underarm a bit more\t\tBrush over the ball\t\tAccelerate at moment of contact",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "1"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "14.1 BH Counter Drive": {
+        "Description": "Basic Drill 2\nWhat to do: Play a backhand counter drive\nRemember to bend your knees and use your body by shifting your weight into the ball and slightly twisting your torso in the same direction. Arm and wrist relaxed. Feel free to start adding more topspin by adding a bit more swing and brush with that frisbee motion, accelerating slightly when you touch the ball, without losing your balance and your ability to recover in time for the next ball.\n\nSwing underarm a bit more (more frisbee)\t\tBrush over the ball\t\tAccelerate at moment of contact",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "1"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "15.1 FH Short Push": {
+        "Description": "Basic Drill 3\nWhat to do: Play a short forehand push\nTry to experiment with pushing short so the ball bounces two times, or pushing deep and fast so the ball bounces close to the table?s edge for a more aggressive use of the push. Add some sidespin to the ball for increased control over the height depth of your stroke. Try to brush sightly under the ball for extra backspin.\n\nSide spin for control\t\tShort or deep and fast\t\tAdd some brush under the ball",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,620000004768372",
+            "y": "-0,165999993681908",
+            "z": "-0,0719999969005585"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-22,7299995422363",
+            "verticalAngle": "-5,74219989776611"
+          },
+          "spread": {
+            "horizontalAngle": "4",
+            "verticalAngle": "1,27999997138977"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-36",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,50999999046326",
+            "leftRight": "2,52999997138977",
+            "screw": "0,866999983787537"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,70300006866455",
+            "secondsPerLaunch": "1,79999995231628"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "16.1 BH Short Push": {
+        "Description": "Basic Drill 4\nWhat to do: Play a short backhand push\nTry to experiment with pushing short so the ball bounces two times, or pushing deep and fast so the ball bounces close to the table?s edge for a more aggressive use of the push. Add some sidespin to the ball for increased control over the height depth of your stroke. Try to brush sightly under the ball for extra backspin.\n\nSide spin for control\t\tShort or deep and fast\t\tAdd some brush under the ball",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,620000004768372",
+            "y": "-0,165999993681908",
+            "z": "-0,0719999969005585"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "22,7299995422363",
+            "verticalAngle": "-5,74219989776611"
+          },
+          "spread": {
+            "horizontalAngle": "4",
+            "verticalAngle": "1,27999997138977"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-36",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,50999999046326",
+            "leftRight": "2,52999997138977",
+            "screw": "0,866999983787537"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,70300006866455",
+            "secondsPerLaunch": "1,79999995231628"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "17.1 2 FH, 2 BH": {
+        "Description": "Basic Drill 5\nWhat to do: two Forehand counter drives, followed by two backhand counter drives\nKeep your knees bent and your center of gravity low and slightly forwards. Pay attention to your forehand and backhand grip. Sidestep slightly towards your backhand and forehand to stay behind the ball on your backhand and so you don?t have to stretch your arm too much on your forehand. Moving sideways happens in two steps: 1. Recover from your stroke to  a more central position. 2. Move in line with where the ball is coming. Try not to forget the first step which is important when you don?t know where the next ball will come.\n\nSwitch fast between forehand and backhand grip\t\tRecover to neutral position\t\tSidestep in line with the ball",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "1"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "17.2 2 FH, 2 BH": {
+        "Description": "Basic Drill 5\nWhat to do: two Forehand counter drives, followed by two backhand counter drives\nKeep your knees bent and your center of gravity low and slightly forwards. Pay attention to your forehand and backhand grip. Sidestep slightly towards your backhand and forehand to stay behind the ball on your backhand and so you don?t have to stretch your arm too much on your forehand. Moving sideways happens in two steps: 1. Recover from your stroke to  a more central position. 2. Move in line with where the ball is coming. Try not to forget the first step which is important when you don?t know where the next ball will come.\n\nSwitch fast between forehand and backhand grip\t\tRecover to neutral position\t\tSidestep in line with the ball",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "1"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "17.3 2 FH, 2 BH": {
+        "Description": "Basic Drill 5\nWhat to do: two Forehand counter drives, followed by two backhand counter drives\nKeep your knees bent and your center of gravity low and slightly forwards. Pay attention to your forehand and backhand grip. Sidestep slightly towards your backhand and forehand to stay behind the ball on your backhand and so you don?t have to stretch your arm too much on your forehand. Moving sideways happens in two steps: 1. Recover from your stroke to  a more central position. 2. Move in line with where the ball is coming. Try not to forget the first step which is important when you don?t know where the next ball will come.\n\nSwitch fast between forehand and backhand grip\t\tRecover to neutral position\t\tSidestep in line with the ball",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "1"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "17.4 2 FH, 2 BH": {
+        "Description": "Basic Drill 5\nWhat to do: two Forehand counter drives, followed by two backhand counter drives\nKeep your knees bent and your center of gravity low and slightly forwards. Pay attention to your forehand and backhand grip. Sidestep slightly towards your backhand and forehand to stay behind the ball on your backhand and so you don?t have to stretch your arm too much on your forehand. Moving sideways happens in two steps: 1. Recover from your stroke to  a more central position. 2. Move in line with where the ball is coming. Try not to forget the first step which is important when you don?t know where the next ball will come.\n\nSwitch fast between forehand and backhand grip\t\tRecover to neutral position\t\tSidestep in line with the ball",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "1"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "18.1 Topsin FH on Backspin": {
+        "Description": "Basic Drill 6\nWhat to do: Open up on backspin ball to the forehand\nIn this case you will need to brush the ball to make it land with intent. Move a step back from the table. Drop your paddle slightly below the table before starting your stroke. Hit the ball before it?s highest point to get a bit of help lifting the ball. Open up your bat angle so your paddle is closer to being vertical. Try to brush the ball more while still making solid contact with the ball. Don?t forget to use your body to help out. Still shift your body forwards but also bend your knees a bit more when starting your stroke so you can use your legs to help lift the ball up. Try not to move too fast at first but let the ball sink into the bat and pull it up so it clears the net. \n\nDrop paddle slightly below table level\t\tBrush the ball\t\tAccelerate underarm on contact with the ball\t\tUpwards motion\t\tUse your legs to lift the ball\t\tMore vertical bat angle\t\tUpward motion\t\tBefore highest point",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,519999980926514",
+            "y": "-0,30799999833107",
+            "z": "-0,294999986886978"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-19,1100006103516",
+            "verticalAngle": "14"
+          },
+          "spread": {
+            "horizontalAngle": "3,59999990463257",
+            "verticalAngle": "1"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-21",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1",
+            "leftRight": "1",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "6,5",
+            "secondsPerLaunch": "1,79999995231628"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "19.1 Topsin BH on Backspin": {
+        "Description": "Basic Drill 7\nWhat to do: Open up on backspin ball to the backhand\nIn this case you will need to brush the ball to make it land with intent. Move a step back from the table. Drop your paddle slightly below the table before starting your stroke. Hit the ball before it?s highest point to get a bit of help lifting the ball. Open up your bat angle so your paddle is closer to being vertical. Try to brush the ball more while still making solid contact with the ball. Don?t forget to use your body to help out. Still shift your body slightly towards your forehand side but mainly bend your knees a bit more when starting your stroke so you can move your body upwards using your legs to help lift the ball up. Add some brush accelerating your underarm when contacting the ball (frisbee motion). Try not to move too fast at first but let the ball sink into the bat and pull it up so it clears the net.\n\nDrop paddle slightly below table level\t\tBrush the ball\t\tAccelerate underarm on contact with the ball\t\tUpwards motion\t\tUse your legs to lift the ball\t\tMore vertical bat angle\t\tUpward motion\t\tBefore highest point",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,519999980926514",
+            "y": "-0,30799999833107",
+            "z": "-0,294999986886978"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "19,1100006103516",
+            "verticalAngle": "14"
+          },
+          "spread": {
+            "horizontalAngle": "3,59999990463257",
+            "verticalAngle": "1"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-21",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1",
+            "leftRight": "1",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "6,5",
+            "secondsPerLaunch": "1,79999995231628"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "20.1 FH, MID, FH, BH": {
+        "Description": "Basic Drill 8\nWhat to do: Forehand, middle, forehand, backhand counter drives\nDon?t stay too close to the tabe. Try to be at a distance where you can strike the ball at it?s highest point slightly in front of your body. This exercise works a bit more on sidestepping. We are talking about small side steps, but it is when you don?t move for these small variations in placement that you will start losing your balance. You can also help reach the ball by adopting a wider stance, as long as you keep your balance and are ready to move in any direction after recovering. To help with that try to make sure that your body follows the direction of your stroke so you are not on your back foot when you finish your stroke. Don?t make your stroke too big so you lose your balance in the other direction. Always try to move the foot on your forehand side first, regardless of where you are going.\n\nFeet wide\t\tKnees bent\t\tSidestep\t\tMove Foot on forehand side first\t\tKeep balance\t\tMove back into balance following the direction of your stroke.\t\tMore compact stroke in case you lose your balance",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,939999997615814"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "20.2 FH, MID, FH, BH": {
+        "Description": "Basic Drill 8\nWhat to do: Forehand, middle, forehand, backhand counter drives\nDon?t stay too close to the tabe. Try to be at a distance where you can strike the ball at it?s highest point slightly in front of your body. This exercise works a bit more on sidestepping. We are talking about small side steps, but it is when you don?t move for these small variations in placement that you will start losing your balance. You can also help reach the ball by adopting a wider stance, as long as you keep your balance and are ready to move in any direction after recovering. To help with that try to make sure that your body follows the direction of your stroke so you are not on your back foot when you finish your stroke. Don?t make your stroke too big so you lose your balance in the other direction. Always try to move the foot on your forehand side first, regardless of where you are going.\n\nFeet wide\t\tKnees bent\t\tSidestep\t\tMove Foot on forehand side first\t\tKeep balance\t\tMove back into balance following the direction of your stroke.\t\tMore compact stroke in case you lose your balance",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,407000005245209",
+            "y": "-0,231000006198883",
+            "z": "-0,256000012159348"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,5",
+            "verticalAngle": "9,72000026702881"
+          },
+          "spread": {
+            "horizontalAngle": "2,85400009155273",
+            "verticalAngle": "1,30799996852875"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "31",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,37699997425079",
+            "leftRight": "2,57999992370605",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,8800001144409",
+            "secondsPerLaunch": "0,939999997615814"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "20.3 FH, MID, FH, BH": {
+        "Description": "Basic Drill 8\nWhat to do: Forehand, middle, forehand, backhand counter drives\nDon?t stay too close to the tabe. Try to be at a distance where you can strike the ball at it?s highest point slightly in front of your body. This exercise works a bit more on sidestepping. We are talking about small side steps, but it is when you don?t move for these small variations in placement that you will start losing your balance. You can also help reach the ball by adopting a wider stance, as long as you keep your balance and are ready to move in any direction after recovering. To help with that try to make sure that your body follows the direction of your stroke so you are not on your back foot when you finish your stroke. Don?t make your stroke too big so you lose your balance in the other direction. Always try to move the foot on your forehand side first, regardless of where you are going.\n\nFeet wide\t\tKnees bent\t\tSidestep\t\tMove Foot on forehand side first\t\tKeep balance\t\tMove back into balance following the direction of your stroke.\t\tMore compact stroke in case you lose your balance",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,939999997615814"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "20.4 FH, MID, FH, BH": {
+        "Description": "Basic Drill 8\nWhat to do: Forehand, middle, forehand, backhand counter drives\nDon?t stay too close to the tabe. Try to be at a distance where you can strike the ball at it?s highest point slightly in front of your body. This exercise works a bit more on sidestepping. We are talking about small side steps, but it is when you don?t move for these small variations in placement that you will start losing your balance. You can also help reach the ball by adopting a wider stance, as long as you keep your balance and are ready to move in any direction after recovering. To help with that try to make sure that your body follows the direction of your stroke so you are not on your back foot when you finish your stroke. Don?t make your stroke too big so you lose your balance in the other direction. Always try to move the foot on your forehand side first, regardless of where you are going.\n\nFeet wide\t\tKnees bent\t\tSidestep\t\tMove Foot on forehand side first\t\tKeep balance\t\tMove back into balance following the direction of your stroke.\t\tMore compact stroke in case you lose your balance",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,939999997615814"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "21.1 ADVANCED DRILLS AlexTTBCN": {
+        "Description": "Advanced Drills by Alex TT Barcelona\nThese will push you a bit more. Pay attention to footwork, warm up well so you don't injure yourself.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "22.1 FH Topspin Drive": {
+        "Description": "Advanced Drills 1\nWhat to do: Play a forehand counter drive moving into topspin drive\nFirst adapt to the frequency of the incoming balls. Next start adding more brush on top of the ball, but try to find the limit of force you can use without losing your balance and making it harder to recover. You don?t need to either brush or drive, use a combination of both. This will help you develop aggressive compact strokes that you can eventually use at high speeds. Ideally each stroke can be a fast topspin drive, so that can be your goal, but not losing balance is more important for this specific drill. Using your body to accelerate and recover will give you more options than just using your arm.\n\nKeep your balance\t\tIncrease spin\t\tCompact strokes\t\tUse your body",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "23.1 BH Topspin Drive": {
+        "Description": "Advanced Drills 2\nWhat to do: Play a backhand counter drive moving into topspin drive\nFirst adapt to the frequency of the incoming balls. Next start adding more brush on top of the ball, but try to find the limit of force you can use without losing your balance and making it harder to recover. You don?t need to either brush or drive, use a combination of both. This will help you develop aggressive compact strokes that you can eventually use at high speeds. Ideally each stroke can be a fast topspin drive, so that can be your goal, but not losing balance is more important for this specific drill. Using your body to accelerate and recover will give you more options than just using your arm. Don?t be scared to move your feet. To produce a bit more velocity on your backhand you can add a bit of a backhand slap aimed towards your opponent's side to your frisbee movement.\n\nKeep your balance\t\tIncrease spin\t\tCompact strokes\t\tUse your body",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "24.1 Random HalfLong BackSpin Serve": {
+        "Description": "Advanced Drills 3\nWhat to do: Push back a randomly placed short serve\nStep in with your forehand side?s foot and keep your stroke compact. Use the step in motion of your body to keep your stroke stable. Don?t forget to return to a neutral position after each return.\n\nStep in\t\tStep out\t\tEarly timing",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,620000004768372",
+            "y": "-0,165999993681908",
+            "z": "-0,0719999969005585"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "10,2212753295898",
+            "verticalAngle": "-5,74219989776611"
+          },
+          "spread": {
+            "horizontalAngle": "14",
+            "verticalAngle": "1,27999997138977"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-36",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,51367807388306",
+            "leftRight": "2,53409218788147",
+            "screw": "0,86789458990097"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,70349979400635",
+            "secondsPerLaunch": "1,35000002384186"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "25.1 2 FH, 2 BH v2": {
+        "Description": "Advanced Drills 4\nWhat to do: 2 forehands, two backhands\nGet used to the higher speed. Focus on getting behind the ball coming towards your backhand and returning when it goes back to your forehand. Also try to think of returning to a neutral position after each stroke, so it is easier to get into the right position every time. Pay attention to your change in grip and if you lose any time there. Consider adapting a more neutral grip when you make the switch to win some time. Start adding more topspin and speed to your strokes when you start feeling confident.\n\nReturn to neutral position\t\tMove behind the ball on your backhand\t\tNeutral grip when switching\t\tKeep the pressure on",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "25.2 2 FH, 2 BH v2": {
+        "Description": "Advanced Drills 4\nWhat to do: 2 forehands, two backhands\nGet used to the higher speed. Focus on getting behind the ball coming towards your backhand and returning when it goes back to your forehand. Also try to think of returning to a neutral position after each stroke, so it is easier to get into the right position every time. Pay attention to your change in grip and if you lose any time there. Consider adapting a more neutral grip when you make the switch to win some time. Start adding more topspin and speed to your strokes when you start feeling confident.\n\nReturn to neutral position\t\tMove behind the ball on your backhand\t\tNeutral grip when switching\t\tKeep the pressure on",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "25.3 2 FH, 2 BH v2": {
+        "Description": "Advanced Drills 4\nWhat to do: 2 forehands, two backhands\nGet used to the higher speed. Focus on getting behind the ball coming towards your backhand and returning when it goes back to your forehand. Also try to think of returning to a neutral position after each stroke, so it is easier to get into the right position every time. Pay attention to your change in grip and if you lose any time there. Consider adapting a more neutral grip when you make the switch to win some time. Start adding more topspin and speed to your strokes when you start feeling confident.\n\nReturn to neutral position\t\tMove behind the ball on your backhand\t\tNeutral grip when switching\t\tKeep the pressure on",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "25.4 2 FH, 2 BH v2": {
+        "Description": "Advanced Drills 4\nWhat to do: 2 forehands, two backhands\nGet used to the higher speed. Focus on getting behind the ball coming towards your backhand and returning when it goes back to your forehand. Also try to think of returning to a neutral position after each stroke, so it is easier to get into the right position every time. Pay attention to your change in grip and if you lose any time there. Consider adapting a more neutral grip when you make the switch to win some time. Start adding more topspin and speed to your strokes when you start feeling confident.\n\nReturn to neutral position\t\tMove behind the ball on your backhand\t\tNeutral grip when switching\t\tKeep the pressure on",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "26.1 FH, MID, FH, BH v2": {
+        "Description": "Advanced Drills 5\nWhat to do: Forehand, Middle, Forehand, Backhand\nGet used to the speed of this exercise. Move your feet into position every time and use the return to neutral position to regain your balance. Use your body as much as you can, but keep your strokes compact. This will teach you to move at a faster pace without losing balance. It can also help you economize your movements since any exaggerated movement to one side will make reaching the next position exponentially harder. Start adding more topspin and speed to your strokes when you start feeling confident.\n\nKeep your balance\t\tReturn to neutral position\t\tUse your feet to push you slightly in the right direction during the stroke\t\tEconomize your movements and strokes as much as possible",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "26.2 FH, MID, FH, BH v2": {
+        "Description": "Advanced Drills 5\nWhat to do: Forehand, Middle, Forehand, Backhand\nGet used to the speed of this exercise. Move your feet into position every time and use the return to neutral position to regain your balance. Use your body as much as you can, but keep your strokes compact. This will teach you to move at a faster pace without losing balance. It can also help you economize your movements since any exaggerated movement to one side will make reaching the next position exponentially harder. Start adding more topspin and speed to your strokes when you start feeling confident.\n\nKeep your balance\t\tReturn to neutral position\t\tUse your feet to push you slightly in the right direction during the stroke\t\tEconomize your movements and strokes as much as possible",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,407000005245209",
+            "y": "-0,231000006198883",
+            "z": "-0,256000012159348"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,5",
+            "verticalAngle": "9,72000026702881"
+          },
+          "spread": {
+            "horizontalAngle": "2,85400009155273",
+            "verticalAngle": "1,30799996852875"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "31",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,37699997425079",
+            "leftRight": "2,57999992370605",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,8800001144409",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "26.3 FH, MID, FH, BH v2": {
+        "Description": "Advanced Drills 5\nWhat to do: Forehand, Middle, Forehand, Backhand\nGet used to the speed of this exercise. Move your feet into position every time and use the return to neutral position to regain your balance. Use your body as much as you can, but keep your strokes compact. This will teach you to move at a faster pace without losing balance. It can also help you economize your movements since any exaggerated movement to one side will make reaching the next position exponentially harder. Start adding more topspin and speed to your strokes when you start feeling confident.\n\nKeep your balance\t\tReturn to neutral position\t\tUse your feet to push you slightly in the right direction during the stroke\t\tEconomize your movements and strokes as much as possible",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "26.4 FH, MID, FH, BH v2": {
+        "Description": "Advanced Drills 5\nWhat to do: Forehand, Middle, Forehand, Backhand\nGet used to the speed of this exercise. Move your feet into position every time and use the return to neutral position to regain your balance. Use your body as much as you can, but keep your strokes compact. This will teach you to move at a faster pace without losing balance. It can also help you economize your movements since any exaggerated movement to one side will make reaching the next position exponentially harder. Start adding more topspin and speed to your strokes when you start feeling confident.\n\nKeep your balance\t\tReturn to neutral position\t\tUse your feet to push you slightly in the right direction during the stroke\t\tEconomize your movements and strokes as much as possible",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "27.1 Falkenberg": {
+        "Description": "Advanced Drills 6\nWhat to do: Backhand, Pivoted backhand, Deep forehand\nThe most intensive exercise in this series. In this case make sure you pivot deep enough to not lose balance when you play the ball. Use the motion of your stroke to return your balance and start moving towards your neutral position by pushing off of your back foot, but make sure to finish your stroke with quality. When reaching your forehand make sure you have enough balance to push off of your forehand side?s foot to move towards to ball and as such back towards your neutral position. Don?t forget to move behind the backhand ball so you are in a good position to pivot for the next ball again. Watch out for injuries. If you lose your balance just start over instead of using pure force to compensate.\n\nKeep your balance\t\tUse your feet to push you in the right direction during the stroke\t\tEconomize your movements and strokes as much as possible",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,939999997615814"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "27.2 Falkenberg": {
+        "Description": "Advanced Drills 6\nWhat to do: Backhand, Pivoted backhand, Deep forehand\nThe most intensive exercise in this series. In this case make sure you pivot deep enough to not lose balance when you play the ball. Use the motion of your stroke to return your balance and start moving towards your neutral position by pushing off of your back foot, but make sure to finish your stroke with quality. When reaching your forehand make sure you have enough balance to push off of your forehand side?s foot to move towards to ball and as such back towards your neutral position. Don?t forget to move behind the backhand ball so you are in a good position to pivot for the next ball again. Watch out for injuries. If you lose your balance just start over instead of using pure force to compensate.\n\nKeep your balance\t\tUse your feet to push you in the right direction during the stroke\t\tEconomize your movements and strokes as much as possible",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,939999997615814"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "27.3 Falkenberg": {
+        "Description": "Advanced Drills 6\nWhat to do: Backhand, Pivoted backhand, Deep forehand\nThe most intensive exercise in this series. In this case make sure you pivot deep enough to not lose balance when you play the ball. Use the motion of your stroke to return your balance and start moving towards your neutral position by pushing off of your back foot, but make sure to finish your stroke with quality. When reaching your forehand make sure you have enough balance to push off of your forehand side?s foot to move towards to ball and as such back towards your neutral position. Don?t forget to move behind the backhand ball so you are in a good position to pivot for the next ball again. Watch out for injuries. If you lose your balance just start over instead of using pure force to compensate.\n\nKeep your balance\t\tUse your feet to push you in the right direction during the stroke\t\tEconomize your movements and strokes as much as possible",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,939999997615814"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "28.1 Heavy TopSpin to Middle drill": {
+        "Description": "Advanced Drill 7\nWhat to do: Push to the deep right, Block to the middle, Parallel forehand attack, attack on random counter\nTry to play towards the ball launcher for realistic angles (except for the last ball). Step in to return the short serve deep to the backhand to put your opponent on the back foot. Your opponent opens up with his backhand to your middle. Block the incoming ball straight down the middle to your opponent?s elbow. Caught off guard your opponent returns a simple counter to your forehand. Attack down the line to try and finish the point. And move to a neutral position more towards the right of the table to cover the new angle. Your opponent gets there and blocks your shot to a random location. Move into position and try to keep the pressure on with this last ball. When blocking keep your paddle above net level to start your stroke. Gently push the ball forward and maybe a bit down with a slightly closed bat angle. You might need to close your bat more or less if you see the ball going long or into the net. If the ball just shoots off, try to add a bit more power to cancel out the incoming spin.\nUse your body to try and finish the point but keep your balance and return to your neutral position to be ready for the last ball. \n\nStep in and out\t\tKeep your paddle up\t\tShift your bat angle to block\t\tA bit of power reduced incoming spin\t\tUse your body\t\tKeep your balance\t\tShifting neutral position",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,519999980926514",
+            "y": "-0,165999993681908",
+            "z": "-0,0719999969005585"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "-5,74219989776611"
+          },
+          "spread": {
+            "horizontalAngle": "4",
+            "verticalAngle": "1,27999997138977"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-36",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,50999999046326",
+            "leftRight": "2,52999997138977",
+            "screw": "0,866999983787537"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,70300006866455",
+            "secondsPerLaunch": "1,89999997615814"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "28.2 Heavy TopSpin to Middle drill": {
+        "Description": "Advanced Drill 7\nWhat to do: Push to the deep right, Block to the middle, Parallel forehand attack, attack on random counter\nTry to play towards the ball launcher for realistic angles (except for the last ball). Step in to return the short serve deep to the backhand to put your opponent on the back foot. Your opponent opens up with his backhand to your middle. Block the incoming ball straight down the middle to your opponent?s elbow. Caught off guard your opponent returns a simple counter to your forehand. Attack down the line to try and finish the point. And move to a neutral position more towards the right of the table to cover the new angle. Your opponent gets there and blocks your shot to a random location. Move into position and try to keep the pressure on with this last ball. When blocking keep your paddle above net level to start your stroke. Gently push the ball forward and maybe a bit down with a slightly closed bat angle. You might need to close your bat more or less if you see the ball going long or into the net. If the ball just shoots off, try to add a bit more power to cancel out the incoming spin.\nUse your body to try and finish the point but keep your balance and return to your neutral position to be ready for the last ball. \n\nStep in and out\t\tKeep your paddle up\t\tShift your bat angle to block\t\tA bit of power reduced incoming spin\t\tUse your body\t\tKeep your balance\t\tShifting neutral position",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,212799996137619"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "9,56999969482422",
+            "verticalAngle": "17,1700000762939"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "98,5199966430664",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,37999999523163",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,95100021362305",
+            "secondsPerLaunch": "1,79999995231628"
+          },
+          "spread": {
+            "speed": "0,314999997615814",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "28.3 Heavy TopSpin to Middle drill": {
+        "Description": "Advanced Drill 7\nWhat to do: Push to the deep right, Block to the middle, Parallel forehand attack, attack on random counter\nTry to play towards the ball launcher for realistic angles (except for the last ball). Step in to return the short serve deep to the backhand to put your opponent on the back foot. Your opponent opens up with his backhand to your middle. Block the incoming ball straight down the middle to your opponent?s elbow. Caught off guard your opponent returns a simple counter to your forehand. Attack down the line to try and finish the point. And move to a neutral position more towards the right of the table to cover the new angle. Your opponent gets there and blocks your shot to a random location. Move into position and try to keep the pressure on with this last ball. When blocking keep your paddle above net level to start your stroke. Gently push the ball forward and maybe a bit down with a slightly closed bat angle. You might need to close your bat more or less if you see the ball going long or into the net. If the ball just shoots off, try to add a bit more power to cancel out the incoming spin.\nUse your body to try and finish the point but keep your balance and return to your neutral position to be ready for the last ball. \n\nStep in and out\t\tKeep your paddle up\t\tShift your bat angle to block\t\tA bit of power reduced incoming spin\t\tUse your body\t\tKeep your balance\t\tShifting neutral position",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "1"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "28.4 Heavy TopSpin to Middle drill": {
+        "Description": "Advanced Drill 7\nWhat to do: Push to the deep right, Block to the middle, Parallel forehand attack, attack on random counter\nTry to play towards the ball launcher for realistic angles (except for the last ball). Step in to return the short serve deep to the backhand to put your opponent on the back foot. Your opponent opens up with his backhand to your middle. Block the incoming ball straight down the middle to your opponent?s elbow. Caught off guard your opponent returns a simple counter to your forehand. Attack down the line to try and finish the point. And move to a neutral position more towards the right of the table to cover the new angle. Your opponent gets there and blocks your shot to a random location. Move into position and try to keep the pressure on with this last ball. When blocking keep your paddle above net level to start your stroke. Gently push the ball forward and maybe a bit down with a slightly closed bat angle. You might need to close your bat more or less if you see the ball going long or into the net. If the ball just shoots off, try to add a bit more power to cancel out the incoming spin.\nUse your body to try and finish the point but keep your balance and return to your neutral position to be ready for the last ball. \n\nStep in and out\t\tKeep your paddle up\t\tShift your bat angle to block\t\tA bit of power reduced incoming spin\t\tUse your body\t\tKeep your balance\t\tShifting neutral position",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "14",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "29.1 Fourth Ball Attack": {
+        "Description": "Advanced Drill 8\nWhat to do: Push short to the right, Spin up random backspin ball to the middle, Attack random counter to the left, finish the ball going to your deep right\nTry to play towards the ball launcher for realistic angles (except for the last ball). Step in to return a short serve with a short or half long push to the right and return to a neutral position on the left side. Your opponent, unsure if the ball will be long, chooses to push the ball back long to a random location. You are ready for it and spin up the ball with either backhand or forehand towards the elbow of your opponent (middle). Your opponent blocks your topspin randomly, you play a topspin drive towards the deep left and shift your neutral position towards the right. The opponent blocks your attack diagonally, where you are ready to finish the point. Drop your bat slightly lower to help you spin up the backspin ball. Use your legs to lift the ball and keep your stroke relatively compact so you can recover in time for the returning block. Keep track of your shifting neutral position and keep you paddle slightly above table level when not dealing with a backspin ball. Try to not lose your balance on the random block so you are ready to shift to the deep right for that final attack.\n\nStep in and out\t\tKeep your paddle up for incoming counters\t\tDrop your paddle slightly before spinning up backspin\t\tUse your legs\t\tShifting Neutral position\t\tKeep your balance",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,620000004768372",
+            "y": "-0,165999993681908",
+            "z": "-0,0719999969005585"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "22,7299995422363",
+            "verticalAngle": "-5,74219989776611"
+          },
+          "spread": {
+            "horizontalAngle": "4",
+            "verticalAngle": "1,27999997138977"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-36",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,50999999046326",
+            "leftRight": "2,52999997138977",
+            "screw": "0,866999983787537"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,70300006866455",
+            "secondsPerLaunch": "1,79999995231628"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "29.2 Fourth Ball Attack": {
+        "Description": "Advanced Drill 8\nWhat to do: Push short to the right, Spin up random backspin ball to the middle, Attack random counter to the left, finish the ball going to your deep right\nTry to play towards the ball launcher for realistic angles (except for the last ball). Step in to return a short serve with a short or half long push to the right and return to a neutral position on the left side. Your opponent, unsure if the ball will be long, chooses to push the ball back long to a random location. You are ready for it and spin up the ball with either backhand or forehand towards the elbow of your opponent (middle). Your opponent blocks your topspin randomly, you play a topspin drive towards the deep left and shift your neutral position towards the right. The opponent blocks your attack diagonally, where you are ready to finish the point. Drop your bat slightly lower to help you spin up the backspin ball. Use your legs to lift the ball and keep your stroke relatively compact so you can recover in time for the returning block. Keep track of your shifting neutral position and keep you paddle slightly above table level when not dealing with a backspin ball. Try to not lose your balance on the random block so you are ready to shift to the deep right for that final attack.\n\nStep in and out\t\tKeep your paddle up for incoming counters\t\tDrop your paddle slightly before spinning up backspin\t\tUse your legs\t\tShifting Neutral position\t\tKeep your balance",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,389769911766052",
+            "y": "-0,308540821075439",
+            "z": "-0,295357942581177"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,46021270751953",
+            "verticalAngle": "14,0330581665039"
+          },
+          "spread": {
+            "horizontalAngle": "14",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-33",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1",
+            "leftRight": "1",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "6,40500020980835",
+            "secondsPerLaunch": "1,51699995994568"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "29.3 Fourth Ball Attack": {
+        "Description": "Advanced Drill 8\nWhat to do: Push short to the right, Spin up random backspin ball to the middle, Attack random counter to the left, finish the ball going to your deep right\nTry to play towards the ball launcher for realistic angles (except for the last ball). Step in to return a short serve with a short or half long push to the right and return to a neutral position on the left side. Your opponent, unsure if the ball will be long, chooses to push the ball back long to a random location. You are ready for it and spin up the ball with either backhand or forehand towards the elbow of your opponent (middle). Your opponent blocks your topspin randomly, you play a topspin drive towards the deep left and shift your neutral position towards the right. The opponent blocks your attack diagonally, where you are ready to finish the point. Drop your bat slightly lower to help you spin up the backspin ball. Use your legs to lift the ball and keep your stroke relatively compact so you can recover in time for the returning block. Keep track of your shifting neutral position and keep you paddle slightly above table level when not dealing with a backspin ball. Try to not lose your balance on the random block so you are ready to shift to the deep right for that final attack.\n\nStep in and out\t\tKeep your paddle up for incoming counters\t\tDrop your paddle slightly before spinning up backspin\t\tUse your legs\t\tShifting Neutral position\t\tKeep your balance",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "14",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "1,20000004768372"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "29.4 Fourth Ball Attack": {
+        "Description": "Advanced Drill 8\nWhat to do: Push short to the right, Spin up random backspin ball to the middle, Attack random counter to the left, finish the ball going to your deep right\nTry to play towards the ball launcher for realistic angles (except for the last ball). Step in to return a short serve with a short or half long push to the right and return to a neutral position on the left side. Your opponent, unsure if the ball will be long, chooses to push the ball back long to a random location. You are ready for it and spin up the ball with either backhand or forehand towards the elbow of your opponent (middle). Your opponent blocks your topspin randomly, you play a topspin drive towards the deep left and shift your neutral position towards the right. The opponent blocks your attack diagonally, where you are ready to finish the point. Drop your bat slightly lower to help you spin up the backspin ball. Use your legs to lift the ball and keep your stroke relatively compact so you can recover in time for the returning block. Keep track of your shifting neutral position and keep you paddle slightly above table level when not dealing with a backspin ball. Try to not lose your balance on the random block so you are ready to shift to the deep right for that final attack.\n\nStep in and out\t\tKeep your paddle up for incoming counters\t\tDrop your paddle slightly before spinning up backspin\t\tUse your legs\t\tShifting Neutral position\t\tKeep your balance",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "30.1 TAME THE SPIN": {
+        "Description": "Tame The Spin\nNew drills to go with Tutorials on Eleven Table Tennis VR's as well as Alex TT Barcelona's youtube channels",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,717395305633545",
+            "y": "-0,245391964912415",
+            "z": "-0,0339908599853516"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "20,3447189331055",
+            "verticalAngle": "-7,11868286132813"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "86,4230499267578",
+            "leftRight": "35,5613098144531",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,87853527069092",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "31.1 L1 Diagonal Fast Serve": {
+        "Description": "Lesson 1 Fast Serve Diagonal\nRecognize the serve\nPositioning: not too close, cover all angles, paddle above table level\nStep back\nCompact stroke and use your hips\nUse incoming speed\nPlay the top of the ball\nPlacement to the elbow or wide\nEarlier contact for a faster return\nUse your wrist\n\nCheck Alex TT Barcelona's youtube channel for more details",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,717395305633545",
+            "y": "-0,245391964912415",
+            "z": "-0,0339908599853516"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "20,3447189331055",
+            "verticalAngle": "-7,11868286132813"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "86,4230499267578",
+            "leftRight": "35,5613098144531",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,87853527069092",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "32.1 L1 Down the line Fast Serve": {
+        "Description": "Lesson 1 Fast Serve Down the Line\nRecognize the serve\nPositioning: not too close, cover all angles, paddle above table level\nStep back\nCompact stroke and use your hips\nUse incoming speed\nPlay the top of the ball\nPlacement to the elbow or wide\nEarlier contact for a faster return\nUse your wrist\n\nCheck Alex TT Barcelona's youtube channel for more details",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,717395305633545",
+            "y": "-0,245391964912415",
+            "z": "-0,0339908599853516"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,49586486816406",
+            "verticalAngle": "-7,11868286132813"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "86,4230499267578",
+            "leftRight": "35,5613098144531",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,87853527069092",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "33.1 L1 Random Fast Serve": {
+        "Description": "Lesson 1 Fast Serve Random\nRecognize the serve\nPositioning: not too close, cover all angles, paddle above table level\nStep back\nCompact stroke and use your hips\nUse incoming speed\nPlay the top of the ball\nPlacement to the elbow or wide\nEarlier contact for a faster return\nUse your wrist\n\nCheck Alex TT Barcelona's youtube channel for more details",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,717395305633545",
+            "y": "-0,245391964912415",
+            "z": "-0,0339908599853516"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "16,3308639526367",
+            "verticalAngle": "-7,11868286132813"
+          },
+          "spread": {
+            "horizontalAngle": "12,4585580825806",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "86,4230499267578",
+            "leftRight": "35,5613098144531",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,48178243637085",
+            "leftRight": "2,3847029209137",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "8,87853527069092",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "34.1 L1 Diagonal Faster Serve": {
+        "Description": "Lesson 1 Faster Serve Diagonal\nRecognize the serve\nPositioning: not too close, cover all angles, paddle above table level\nStep back\nCompact stroke and use your hips\nUse incoming speed\nPlay the top of the ball\nPlacement to the elbow or wide\nEarlier contact for a faster return\nUse your wrist\n\nCheck Alex TT Barcelona's youtube channel for more details",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,717395305633545",
+            "y": "-0,258548617362976",
+            "z": "0,129566192626953"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "20,3447189331055",
+            "verticalAngle": "-7,11868286132813"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "86,4230499267578",
+            "leftRight": "52,6153564453125",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "11,2075748443604",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "35.1 L1 Down the line Faster Serve": {
+        "Description": "Lesson 1 Faster Serve Down the Line\nRecognize the serve\nPositioning: not too close, cover all angles, paddle above table level\nStep back\nCompact stroke and use your hips\nUse incoming speed\nPlay the top of the ball\nPlacement to the elbow or wide\nEarlier contact for a faster return\nUse your wrist\n\nCheck Alex TT Barcelona's youtube channel for more details",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,717395305633545",
+            "y": "-0,258548617362976",
+            "z": "0,129566192626953"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,49586486816406",
+            "verticalAngle": "-7,11868286132813"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "86,4230499267578",
+            "leftRight": "52,6153564453125",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "11,2075748443604",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "36.1 L1 Random Faster Serve": {
+        "Description": "Lesson 1 Faster Serve Random\nRecognize the serve\nPositioning: not too close, cover all angles, paddle above table level\nStep back\nCompact stroke and use your hips\nUse incoming speed\nPlay the top of the ball\nPlacement to the elbow or wide\nEarlier contact for a faster return\nUse your wrist\n\nCheck Alex TT Barcelona's youtube channel for more details",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,717395305633545",
+            "y": "-0,258548617362976",
+            "z": "0,129566192626953"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "16,3308639526367",
+            "verticalAngle": "-7,11868286132813"
+          },
+          "spread": {
+            "horizontalAngle": "12,4585580825806",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "86,4230499267578",
+            "leftRight": "52,6153564453125",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,48178243637085",
+            "leftRight": "2,3847029209137",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "11,2075748443604",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "37.1 Challenge 1": {
+        "Description": "Forehand Topspin Challenge. Land 5 consecutive topspin balls after pushing short. Highest average topspin score wins. Select 23.3 and 23.4 and just let them pass to have some more time to look at the TV and recover. Don't forget to film the whole process. 50 dollar gift card for highest spin. 25 dollars for most creative way to do this challenge. Sponsored by For fun labs. Deadline for sending in videos. Friday 19/03/2021 22:00 gmt+1. Join the Eleven Discord to submit your video.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,620000004768372",
+            "y": "-0,165999993681908",
+            "z": "-0,0719999969005585"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-22,7299995422363",
+            "verticalAngle": "-5,74219989776611"
+          },
+          "spread": {
+            "horizontalAngle": "4",
+            "verticalAngle": "1,27999997138977"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-36",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,50999999046326",
+            "leftRight": "2,52999997138977",
+            "screw": "0,866999983787537"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,70300006866455",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "37.2 Challenge 1": {
+        "Description": "Forehand Topspin Challenge. Land 5 consecutive topspin balls after pushing short. Highest average topspin score wins. Select 23.3 and 23.4 and just let them pass to have some more time to look at the TV and recover. Don't forget to film the whole process. 50 dollar gift card for highest spin. 25 dollars for most creative way to do this challenge. Sponsored by For fun labs. Deadline for sending in videos. Friday 19/03/2021 22:00 gmt+1. Join the Eleven Discord to submit your video.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,519999980926514",
+            "y": "-0,30799999833107",
+            "z": "-0,294999986886978"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-19,1100006103516",
+            "verticalAngle": "14"
+          },
+          "spread": {
+            "horizontalAngle": "3,59999990463257",
+            "verticalAngle": "1"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-33,5",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1",
+            "leftRight": "1",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "6,5",
+            "secondsPerLaunch": "1,51699995994568"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "37.3 Challenge 1": {
+        "Description": "Forehand Topspin Challenge. Land 5 consecutive topspin balls after pushing short. Highest average topspin score wins. Select 23.3 and 23.4 and just let them pass to have some more time to look at the TV and recover. Don't forget to film the whole process. 50 dollar gift card for highest spin. 25 dollars for most creative way to do this challenge. Sponsored by For fun labs. Deadline for sending in videos. Friday 19/03/2021 22:00 gmt+1. Join the Eleven Discord to submit your video.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,620000004768372",
+            "y": "-0,165999993681908",
+            "z": "-0,0719999969005585"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-22,7299995422363",
+            "verticalAngle": "-5,74219989776611"
+          },
+          "spread": {
+            "horizontalAngle": "4",
+            "verticalAngle": "1,27999997138977"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-36",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,50999999046326",
+            "leftRight": "2,52999997138977",
+            "screw": "0,866999983787537"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,70300006866455",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "37.4 Challenge 1": {
+        "Description": "Forehand Topspin Challenge. Land 5 consecutive topspin balls after pushing short. Highest average topspin score wins. Select 23.3 and 23.4 and just let them pass to have some more time to look at the TV and recover. Don't forget to film the whole process. 50 dollar gift card for highest spin. 25 dollars for most creative way to do this challenge. Sponsored by For fun labs. Deadline for sending in videos. Friday 19/03/2021 22:00 gmt+1. Join the Eleven Discord to submit your video.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,620000004768372",
+            "y": "-0,165999993681908",
+            "z": "-0,0719999969005585"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-22,7299995422363",
+            "verticalAngle": "-5,74219989776611"
+          },
+          "spread": {
+            "horizontalAngle": "4",
+            "verticalAngle": "1,27999997138977"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-36",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,50999999046326",
+            "leftRight": "2,52999997138977",
+            "screw": "0,866999983787537"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,70300006866455",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "38.1 L4D1 1 FH, 1 BH": {
+        "Description": "Tame The Spin Lesson 4\nDrill 1\nA simple forehand, backhand drill. Try to focus on keeping your strokes compact. Speed up if needed",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "38.2 L4D1 1 FH, 1 BH": {
+        "Description": "Tame The Spin Lesson 4\nDrill 1\nA simple forehand, backhand drill. Try to focus on keeping your strokes compact. Speed up if needed",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "39.1 L4D2 2 FH, 2 BH v2": {
+        "Description": "Tame The Spin Lesson 4\nDrill 2\nSame old 2 Forehand, two backhand drill.\nIn contrast to drill number 1 try to focus on topspin drives (so slightly larger movement and more brush) and how you use the space. Move into the table for a shorter drive, move a bit back when playing heavier loops.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "39.2 L4D2 2 FH, 2 BH v2": {
+        "Description": "Tame The Spin Lesson 4\nDrill 2\nSame old 2 Forehand, two backhand drill.\nIn contrast to drill number 1 try to focus on topspin drives (so slightly larger movement and more brush) and how you use the space. Move into the table for a shorter drive, move a bit back when playing heavier loops.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "39.3 L4D2 2 FH, 2 BH v2": {
+        "Description": "Tame The Spin Lesson 4\nDrill 2\nSame old 2 Forehand, two backhand drill.\nIn contrast to drill number 1 try to focus on topspin drives (so slightly larger movement and more brush) and how you use the space. Move into the table for a shorter drive, move a bit back when playing heavier loops.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "39.4 L4D2 2 FH, 2 BH v2": {
+        "Description": "Tame The Spin Lesson 4\nDrill 2\nSame old 2 Forehand, two backhand drill.\nIn contrast to drill number 1 try to focus on topspin drives (so slightly larger movement and more brush) and how you use the space. Move into the table for a shorter drive, move a bit back when playing heavier loops.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "40.1 L4D3 FH, Random, BH, Random": {
+        "Description": "Tame The Spin Lesson 4\nDrill 3\nA little more random. Try to hold on to the strokes you know the placement off to give you some structure. This is a four stroke exercise after which the first ball will come again a bit later so you have some space to breath and recover your balance. Play with the timescale to help you out or make it harder.\nKeep moving, focus, track the ball, keep your balance, keep your paddle up, follow the ball with your chest",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "0",
+            "verticalAngle": "11,4840002059937"
+          },
+          "spread": {
+            "horizontalAngle": "3",
+            "verticalAngle": "2,0699999332428"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,29999995231628",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "1,79999995231628"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "40.2 L4D3 FH, Random, BH, Random": {
+        "Description": "Tame The Spin Lesson 4\nDrill 3\nA little more random. Try to hold on to the strokes you know the placement off to give you some structure. This is a four stroke exercise after which the first ball will come again a bit later so you have some space to breath and recover your balance. Play with the timescale to help you out or make it harder.\nKeep moving, focus, track the ball, keep your balance, keep your paddle up, follow the ball with your chest",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,60000038146973",
+            "verticalAngle": "11,4799995422363"
+          },
+          "spread": {
+            "horizontalAngle": "14",
+            "verticalAngle": "2,07500004768372"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,39999997615814",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "40.3 L4D3 FH, Random, BH, Random": {
+        "Description": "Tame The Spin Lesson 4\nDrill 3\nA little more random. Try to hold on to the strokes you know the placement off to give you some structure. This is a four stroke exercise after which the first ball will come again a bit later so you have some space to breath and recover your balance. Play with the timescale to help you out or make it harder.\nKeep moving, focus, track the ball, keep your balance, keep your paddle up, follow the ball with your chest",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,43176531791687",
+            "y": "-0,240288496017456",
+            "z": "-0,212812900543213"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "17,9228744506836",
+            "verticalAngle": "11,4849243164063"
+          },
+          "spread": {
+            "horizontalAngle": "3,06533360481262",
+            "verticalAngle": "2,07548022270203"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30,1296539306641",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,38565468788147",
+            "leftRight": "3,35225224494934",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "10,3590488433838",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "40.4 L4D3 FH, Random, BH, Random": {
+        "Description": "Tame The Spin Lesson 4\nDrill 3\nA little more random. Try to hold on to the strokes you know the placement off to give you some structure. This is a four stroke exercise after which the first ball will come again a bit later so you have some space to breath and recover your balance. Play with the timescale to help you out or make it harder.\nKeep moving, focus, track the ball, keep your balance, keep your paddle up, follow the ball with your chest",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,60000038146973",
+            "verticalAngle": "11,4799995422363"
+          },
+          "spread": {
+            "horizontalAngle": "14",
+            "verticalAngle": "2,07500004768372"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,39999997615814",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "41.1 L4D4 Random, Random": {
+        "Description": "Tame The Spin Lesson 4\nDrill 4\nFull random 2 shot series. Use a compact stroke for the first and create some space to finish the second one if possible\nPlay with the timescale to help you out or make it harder.\nKeep moving, focus, track the ball, keep your balance, keep your paddle up, follow the ball with your chest, try not to change your grip if you don't have the time, use your core muscles to be able to get into position fast, play with intent to not lose control of the point",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,60000038146973",
+            "verticalAngle": "11,4799995422363"
+          },
+          "spread": {
+            "horizontalAngle": "14",
+            "verticalAngle": "2,07500004768372"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,39999997615814",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "1,79999995231628"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "41.2 L4D4 Random, Random": {
+        "Description": "Tame The Spin Lesson 4\nDrill 4\nFull random 2 shot series. Use a compact stroke for the first and create some space to finish the second one if possible\nPlay with the timescale to help you out or make it harder.\nKeep moving, focus, track the ball, keep your balance, keep your paddle up, follow the ball with your chest, try not to change your grip if you don't have the time, use your core muscles to be able to get into position fast, play with intent to not lose control of the point",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,60000038146973",
+            "verticalAngle": "11,4799995422363"
+          },
+          "spread": {
+            "horizontalAngle": "14",
+            "verticalAngle": "2,07500004768372"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,39999997615814",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,75"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "42.1 L4D5 Serve, Random Backspin, Random, Random": {
+        "Description": "Tame The Spin Lesson 4\nDrill 5\nTry to serve half-long (second bounce just on or off the table) at the same time as the ball launcher. Spin up the returning backspin ball and try to remain active on the next two random strokes.\nAgain there is a slight delay before the exercise begins again.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,620000004768372",
+            "y": "-0,165999993681908",
+            "z": "-0,0719999969005585"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "10,2212753295898",
+            "verticalAngle": "-5,74219989776611"
+          },
+          "spread": {
+            "horizontalAngle": "14",
+            "verticalAngle": "1,27999997138977"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-36",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "2,51367807388306",
+            "leftRight": "2,53409218788147",
+            "screw": "0,86789458990097"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "4,70349979400635",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "42.2 L4D5 Serve, Random Backspin, Random, Random": {
+        "Description": "Tame The Spin Lesson 4\nDrill 5\nTry to serve half-long (second bounce just on or off the table) at the same time as the ball launcher. Spin up the returning backspin ball and try to remain active on the next two random strokes.\nAgain there is a slight delay before the exercise begins again.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,335171103477478",
+            "y": "-0,308540821075439",
+            "z": "-0,986185193061829"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8",
+            "verticalAngle": "13,3811721801758"
+          },
+          "spread": {
+            "horizontalAngle": "19",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "-33",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1",
+            "leftRight": "1",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "5,40358400344849",
+            "secondsPerLaunch": "1,60000002384186"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "42.3 L4D5 Serve, Random Backspin, Random, Random": {
+        "Description": "Tame The Spin Lesson 4\nDrill 5\nTry to serve half-long (second bounce just on or off the table) at the same time as the ball launcher. Spin up the returning backspin ball and try to remain active on the next two random strokes.\nAgain there is a slight delay before the exercise begins again.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,60000038146973",
+            "verticalAngle": "11,4799995422363"
+          },
+          "spread": {
+            "horizontalAngle": "14",
+            "verticalAngle": "2,07500004768372"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,39999997615814",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "1,29999995231628"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "42.4 L4D5 Serve, Random Backspin, Random, Random": {
+        "Description": "Tame The Spin Lesson 4\nDrill 5\nTry to serve half-long (second bounce just on or off the table) at the same time as the ball launcher. Spin up the returning backspin ball and try to remain active on the next two random strokes.\nAgain there is a slight delay before the exercise begins again.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,449999988079071",
+            "y": "-0,239999994635582",
+            "z": "-0,217999994754791"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "8,60000038146973",
+            "verticalAngle": "11,4799995422363"
+          },
+          "spread": {
+            "horizontalAngle": "14",
+            "verticalAngle": "2,07500004768372"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "30",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "1,39999997615814",
+            "leftRight": "3,34999990463257",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "9,94999980926514",
+            "secondsPerLaunch": "0,819999992847443"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "43.1 L4 Mima Ito": {
+        "Description": "Mima Ito vs Jeon Jihee\nWTT's positive shift in reporting on women's Table Tennis has made it much easier to see the best points from some of our favourite table tennis players.\nHere is a reproduction of a point by Mima Ito.\nPlease use with extreme caution as to not injure yourself trying to return all the balls. You can't read Mima's body language so you might need to get used to the rhythm. But even then you'll appreciate Jeon's returns and placement.\nCheck the Tame The Spin: Real Life point by Mima Ito in Eleven VR video on youtube to see the actual point.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,567192316055298",
+            "y": "-0,314122349023819",
+            "z": "-0,347809553146362"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "21,4513702392578",
+            "verticalAngle": "5,91188049316406"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "24,4549255371094",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "14,7011709213257",
+            "secondsPerLaunch": "2"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "43.2 L4 Mima Ito": {
+        "Description": "Mima Ito vs Jeon Jihee\nWTT's positive shift in reporting on women's Table Tennis has made it much easier to see the best points from some of our favourite table tennis players.\nHere is a reproduction of a point by Mima Ito.\nPlease use with extreme caution as to not injure yourself trying to return all the balls. You can't read Mima's body language so you might need to get used to the rhythm. But even then you'll appreciate Jeon's returns and placement.\nCheck the Tame The Spin: Real Life point by Mima Ito in Eleven VR video on youtube to see the actual point.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "-0,733278155326843",
+            "y": "-0,198572397232056",
+            "z": "0,326529502868652"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "-21,391242980957",
+            "verticalAngle": "3,6719970703125"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "6,03977966308594",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "14,6986570358276",
+            "secondsPerLaunch": "0,776043355464935"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
+      "43.3 L4 Mima Ito": {
+        "Description": "Mima Ito vs Jeon Jihee\nWTT's positive shift in reporting on women's Table Tennis has made it much easier to see the best points from some of our favourite table tennis players.\nHere is a reproduction of a point by Mima Ito.\nPlease use with extreme caution as to not injure yourself trying to return all the balls. You can't read Mima's body language so you might need to get used to the rhythm. But even then you'll appreciate Jeon's returns and placement.\nCheck the Tame The Spin: Real Life point by Mima Ito in Eleven VR video on youtube to see the actual point.",
+        "isActive": "False",
+        "position": {
+          "raw": {
+            "x": "0,589739561080933",
+            "y": "-0,242103099822998",
+            "z": "0,475322484970093"
+          },
+          "spread": {
+            "x": "0",
+            "y": "0",
+            "z": "0"
+          }
+        },
+        "direction": {
+          "raw": {
+            "horizontalAngle": "23,3298416137695",
+            "verticalAngle": "10,294807434082"
+          },
+          "spread": {
+            "horizontalAngle": "0",
+            "verticalAngle": "0"
+          }
+        },
+        "spin": {
+          "raw": {
+            "topBottom": "13,0561218261719",
+            "leftRight": "0",
+            "screw": "0"
+          },
+          "spread": {
+            "topBottom": "0",
+            "leftRight": "0",
+            "screw": "0"
+          }
+        },
+        "speedAndRate": {
+          "raw": {
+            "speed": "11,0391187667847",
+            "secondsPerLaunch": "0,713159382343292"
+          },
+          "spread": {
+            "speed": "0",
+            "secondsPerLaunch": "0"
+          }
+        }
+      },
       "4008.8 Meme drills": {
         "Description": "Author: SolidSlime\nhttps://github.com/jerryfromearth/ETT-meme-drills\nBE CAREFUL OF OBJECTS AROUND YOU!",
         "isActive": "False",
@@ -60,7 +5580,7 @@
       },
       "Snake Lob High R": {
         "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
-        "isActive": "True",
+        "isActive": "False",
         "position": {
           "raw": {
             "x": "-0,0222755670547485",
@@ -108,7 +5628,7 @@
       },
       "Snake Lob High L": {
         "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
-        "isActive": "True",
+        "isActive": "False",
         "position": {
           "raw": {
             "x": "0,0222755670547485",
@@ -156,7 +5676,7 @@
       },
       "Snake Lob Mid R": {
         "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
-        "isActive": "True",
+        "isActive": "False",
         "position": {
           "raw": {
             "x": "-0,0222755670547485",
@@ -204,7 +5724,7 @@
       },
       "Snake Lob Mid L": {
         "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
-        "isActive": "True",
+        "isActive": "False",
         "position": {
           "raw": {
             "x": "0,0222755670547485",
@@ -252,7 +5772,7 @@
       },
       "Snake Lob Low R": {
         "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
-        "isActive": "True",
+        "isActive": "False",
         "position": {
           "raw": {
             "x": "-0,0424344539642334",
@@ -300,7 +5820,7 @@
       },
       "Snake Lob Low L": {
         "Description": "Beware of the snake bite! Please enable all 'Snake' drills and also enable 'shuffle' in '...' options",
-        "isActive": "True",
+        "isActive": "False",
         "position": {
           "raw": {
             "x": "0,0424344539642334",
